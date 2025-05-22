@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-eis_toolkit-green.svg)](https://anaconda.org/conda-forge/eis_toolkit) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/eis_toolkit.svg)](https://anaconda.org/conda-forge/eis_toolkit) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/eis_toolkit.svg)](https://anaconda.org/conda-forge/eis_toolkit) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/eis_toolkit.svg)](https://anaconda.org/conda-forge/eis_toolkit) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-eis__toolkit-green.svg)](https://anaconda.org/conda-forge/eis_toolkit) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/eis_toolkit.svg)](https://anaconda.org/conda-forge/eis_toolkit) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/eis_toolkit.svg)](https://anaconda.org/conda-forge/eis_toolkit) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/eis_toolkit.svg)](https://anaconda.org/conda-forge/eis_toolkit) |
 
 Installing eis_toolkit
 ======================
